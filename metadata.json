@@ -1,0 +1,6 @@
+{
+  "name": "Fridge to Recipe",
+  "description": "An AI-powered recipe generator that identifies ingredients from a photo of your fridge and creates step-by-step cooking recipes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
